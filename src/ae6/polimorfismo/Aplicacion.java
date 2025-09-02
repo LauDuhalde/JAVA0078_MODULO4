@@ -9,6 +9,11 @@ import ae6.polimorfismo.interfaz.Figura;
 
 public class Aplicacion {
 	public static void main(String[] args) {
+		Perro perro = new Perro();
+		Gato gato = new Gato();
+		perro.hacerSonido(); //El perro ladra
+		gato.hacerSonido(); //El gato maúlla
+		
 		Animal a1 = new Perro();
         Animal a2 = new Gato();
 
