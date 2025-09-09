@@ -34,3 +34,6 @@
 - Herencia: ae6.herencia.*
 - Interfaces: ae6.interfaces.*
 - Polimorfismo: ae6.polimorfismo.*
+
+## AE7: Pruebas
+- JUnit y Mockito
